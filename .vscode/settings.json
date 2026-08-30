@@ -1,0 +1,8 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editorinputs.searchEditorInput": true
+    },
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize"
+}
